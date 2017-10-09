@@ -1,5 +1,5 @@
-#--- Author: Ajit Kumar
-#--- Date: 9th october 2017
+# Author: Ajit Kumar
+# Date: 9th october 2017
 
 # Latex-Presentation
 This file contains source code of Latex Beamer presentation.
